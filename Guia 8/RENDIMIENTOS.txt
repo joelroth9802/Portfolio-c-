@@ -1,0 +1,5 @@
+Informacion de los productores que obtuvieron rendimientos mayor al promedio:
+943 120 240 2
+684 102 200 1.96078
+393 94 190 2.02128
+281 92 172 1.86957

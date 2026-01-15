@@ -1,0 +1,24 @@
+0 Caba
+1 Tucuman
+2 Buenos Aires
+3 La Pampa
+4 Neuquen
+5 Tierra del Fuego
+6 Santa Cruz
+7 San Luis
+8 Chubut
+9 Santa Fe
+10 Rio Negro
+11 Entre Rios
+12 Mendoza
+13 Jujuy
+14 La Rioja
+15 Santiago del Estero
+16 Corrientes
+17 Misiones
+18 Salta
+19 Catamarca
+20 San Juan
+21 Santa Cruz
+22 Formosa
+23 Chaco
