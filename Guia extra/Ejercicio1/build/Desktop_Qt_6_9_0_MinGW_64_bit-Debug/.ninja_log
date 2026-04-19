@@ -1,0 +1,12 @@
+# ninja log v6
+2	250	7947802719215404	CMakeFiles/OperacionesAritmeticas.dir/main.cpp.obj	633a794c9d16eee7
+251	316	7947802721705408	OperacionesAritmeticas.exe	534062a48b2def0b
+19	246	7947802854707775	CMakeFiles/OperacionesAritmeticas.dir/main.cpp.obj	633a794c9d16eee7
+247	311	7947802856982265	OperacionesAritmeticas.exe	534062a48b2def0b
+18	234	7947803654654978	CMakeFiles/OperacionesAritmeticas.dir/main.cpp.obj	633a794c9d16eee7
+235	307	7947803656820923	OperacionesAritmeticas.exe	534062a48b2def0b
+19	259	7947803972609961	CMakeFiles/OperacionesAritmeticas.dir/main.cpp.obj	633a794c9d16eee7
+260	324	7947803975011353	OperacionesAritmeticas.exe	534062a48b2def0b
+19	26	7947806650014537	clean	577b940aee94fbd7
+11	237	7947806650581828	CMakeFiles/OperacionesAritmeticas.dir/main.cpp.obj	633a794c9d16eee7
+237	301	7947806652847621	OperacionesAritmeticas.exe	534062a48b2def0b
